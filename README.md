@@ -10,18 +10,20 @@
 
 [Documentação da API consumida no projeto](https://documenter.getpostman.com/view/7549981/SWTEdGtT?version=latest#a671fbe5-a360-4cd3-b269-d5a121e19da0)
 
-![Alt Text](https://github.com/joaopf4/futureEats/blob/master/src/imgs/gifMockup.gif)
-
 <p align="center">
   <img width="300px" src="https://i.imgur.com/jPszDkp.png"/>
 </p>
+<p align="center">
+![Alt Text](https://github.com/joaopf4/futureEats/blob/master/src/imgs/gifMockup.gif)
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
   <img src="https://img.shields.io/static/v1?label=redux&message=library&color=purple&style=for-the-badge&logo=REDUX"/>
   <img src="https://img.shields.io/static/v1?label=javascript&message=language&color=yellow&style=for-the-badge&logo=JAVASCRIPT"/>
   <img src="https://img.shields.io/static/v1?label=styled-component&message=library&color=pink&style=for-the-badge&logo=STYLED-COMPONENTS"/>
-    <img src="https://img.shields.io/static/v1?label=styled-jest&message=library&color=red&style=for-the-badge&logo=JEST"/>
+    <img src="https://img.shields.io/static/v1?label=test-jest&message=library&color=red&style=for-the-badge&logo=JEST"/>
    <img src="https://img.shields.io/static/v1?label=material-ui&message=library&color=blue&style=for-the-badge&logo=MATERIAL-UI"/>
 </p>
 
