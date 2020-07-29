@@ -13,8 +13,15 @@
 <p align="center">
   <img width="300px" src="https://i.imgur.com/jPszDkp.png"/>
 </p>
+
 <p align="center">
+  <img width="300px" src="https://github.com/joaopf4/futureEats/blob/master/src/imgs/gifMockup.gif"/>
+</p>
+
+<p align="center">
+  
 ![Alt Text](https://github.com/joaopf4/futureEats/blob/master/src/imgs/gifMockup.gif)
+
 </p>
 
 
@@ -56,7 +63,10 @@ Conseguimos crescer e nos desenvolver com a divisão de trabalho em equipe, tend
 Seguimos o layout de telas desenvolvidas pela designer da escola  [Camila Mizutani](https://www.linkedin.com/in/camila-mizutani-257495bb/).
 
 
-## Contato (opcional)
+## Contato
+
 João Pedro 
-joaopfa@hotmail.com>
+
+joaopfa@hotmail.com
+
 31 988165740
