@@ -18,12 +18,6 @@
   <img width="300px" src="https://github.com/joaopf4/futureEats/blob/master/src/imgs/gifMockup.gif"/>
 </p>
 
-<p align="center">
-  
-![Alt Text](https://github.com/joaopf4/futureEats/blob/master/src/imgs/gifMockup.gif)
-
-</p>
-
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
